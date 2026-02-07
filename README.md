@@ -1,13 +1,15 @@
-# LightHUD
+# endfield-concept
 
-My personal HUD aimed to be very minimal and light on performance, get's rid of many elements I don't personally feel the need of and with that brings a bit more stability with less freezes and some extra FPS.
+tf2 hud that pretends to look like the hud from arknights endfield
 
-Here are some of the screenshots, full album [HERE](../screenshots/showcase.md)
+only a mockup so no assets. (may change in the future)
 
-![](../screenshots/01_Main_Menu.jpg?raw=true)
-![](../screenshots/09_Team_Selection.jpg?raw=true)
-![](../screenshots/10_Class_Selection.jpg?raw=true)
-![](../screenshots/14_Health_Buff_Normal.jpg?raw=true)
-![](../screenshots/15_Health_Buff_Surface.jpg?raw=true)
-![](../screenshots/16_Health_Buff_TF2.png?raw=true)
-![](../screenshots/27_Scoreboard.jpg?raw=true)
+## credits:
+
+hypnotize:
+
+- lighthud - base
+
+- m0rehud - 5cp and payload
+![image](https://i.imgur.com/6odsxRw.jpeg)
+
