@@ -124,7 +124,7 @@
 		"visible_minmode"							"1"
 		"enabled"									"1"
 		"variable"									"Health"
-		"FGcolor_override"							"22 205 248 255"
+		"FGcolor_override"							"EFHealth"
 		"BGcolor_override"							"0 0 0 100"
 	}
 	"PlayerStatusAnchor"

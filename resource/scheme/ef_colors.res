@@ -3,7 +3,7 @@ Scheme
     Colors
     {
         //efc
-        "EFHealth"
+        "EFHealth"											"22 205 248 255"
 		"Main"												"255 250 0 255"
 		"Low"												"225 75 75 255"
 
