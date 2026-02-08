@@ -499,7 +499,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"Novecentowide-DemiBold"
 				"tall"										"18"
 				"antialias"									"1"
 				"outline"									"1"
@@ -547,7 +547,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"Novecentowide-DemiBold"
 				"tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
@@ -733,7 +733,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"Novecentowide-Bold"
 				"tall"										"18"
 				"antialias"									"1"
 				"outline"									"1"
@@ -781,7 +781,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"Novecentowide-Bold"
 				"tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
@@ -967,7 +967,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"Novecentowide-Normal"
 				"tall"										"18"
 				"antialias"									"1"
 				"outline"									"1"
@@ -1015,7 +1015,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"Novecentowide-Normal"
 				"tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
@@ -1201,7 +1201,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"Novecentowide-Medium"
 				"tall"										"18"
 				"antialias"									"1"
 				"outline"									"1"
@@ -1249,7 +1249,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"Novecentowide-Medium"
 				"tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
@@ -1435,7 +1435,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"Novecentowide-Light"
 				"tall"										"18"
 				"antialias"									"1"
 				"outline"									"1"
@@ -1483,7 +1483,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"Novecentowide-Light"
 				"tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
@@ -1669,7 +1669,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"Novecentowide-Book"
 				"tall"										"18"
 				"antialias"									"1"
 				"outline"									"1"
@@ -1717,7 +1717,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"Novecentowide-Book"
 				"tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
@@ -1782,6 +1782,231 @@
 			"1"
 			{
 				"name"										"Novecentowide-Book"
+				"tall"										"72"
+				"antialias"									"1"
+			}
+		}
+		"roboto9"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"9"
+				"antialias"									"1"
+			}
+		}
+		"roboto10"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"10"
+				"antialias"									"1"
+			}
+		}
+		"roboto11"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"11"
+				"antialias"									"1"
+			}
+		}
+		"roboto11Shadow"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"11"
+				"antialias"									"1"
+				"dropshadow"								"1"
+			}
+		}
+		"roboto12"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"12"
+				"antialias"									"1"
+			}
+		}
+		"roboto12Shadow"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"12"
+				"antialias"									"1"
+				"dropshadow"								"1"
+			}
+		}
+		"roboto14"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"14"
+				"antialias"									"1"
+			}
+		}
+		"roboto16"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"16"
+				"antialias"									"1"
+			}
+		}
+		"roboto16Shadow"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"16"
+				"antialias"									"1"
+				"dropshadow"								"1"
+			}
+		}
+		"roboto18"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"18"
+				"antialias"									"1"
+			}
+		}
+		"roboto18Shadow"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"18"
+				"antialias"									"1"
+				"dropshadow"								"1"
+			}
+		}
+		"roboto18Outline"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"18"
+				"antialias"									"1"
+				"outline"									"1"
+			}
+		}
+		"roboto18Numbers"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"18"
+				"antialias"									"1"
+				"outline"									"1"
+			}
+		}
+		"roboto20"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"20"
+				"antialias"									"1"
+			}
+		}
+		"roboto24"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"24"
+				"antialias"									"1"
+			}
+		}
+		"roboto24Shadow"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"24"
+				"antialias"									"1"
+				"dropshadow"								"1"
+			}
+		}
+		"roboto24Outline"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"24"
+				"antialias"									"1"
+				"outline"									"1"
+			}
+		}
+		"roboto24Numbers"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"24"
+				"antialias"									"1"
+				"outline"									"1"
+			}
+		}
+		"roboto26"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"26"
+				"antialias"									"1"
+			}
+		}
+		"roboto30"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"30"
+				"antialias"									"1"
+			}
+		}
+		"roboto36"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"36"
+				"antialias"									"1"
+			}
+		}
+		"roboto48"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"48"
+				"antialias"									"1"
+			}
+		}
+		"roboto58"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
+				"tall"										"58"
+				"antialias"									"1"
+			}
+		}
+		"roboto72"
+		{
+			"1"
+			{
+				"name"										"Roboto Regular"
 				"tall"										"72"
 				"antialias"									"1"
 			}
