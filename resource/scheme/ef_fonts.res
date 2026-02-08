@@ -381,8 +381,8 @@
 		{
 			"1" { "name" "Roboto Regular" "tall" "30" "antialias" "1" }
 		}
-//other
-	"novewide_demi9"
+		//other
+		"novewide_demi9"
 		{
 			"1"
 			{
@@ -1084,7 +1084,7 @@
 				"antialias"									"1"
 			}
 		}
-	"novewide_medium9"
+		"novewide_medium9"
 		{
 			"1"
 			{
@@ -1318,7 +1318,7 @@
 				"antialias"									"1"
 			}
 		}
-	"novewide_light9"
+		"novewide_light9"
 		{
 			"1"
 			{
@@ -1552,7 +1552,7 @@
 				"antialias"									"1"
 			}
 		}
-	"novewide_book9"
+		"novewide_book9"
 		{
 			"1"
 			{

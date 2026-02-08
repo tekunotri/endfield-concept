@@ -8,8 +8,8 @@
 		"text_y"									"0"
 		"delta_item_end_y"							"0"
 		"delta_lifetime"							"1"
-		"delta_item_font"							"novewide_demi20"
-		"delta_item_font_big"						"novewide_demi20"
+		"delta_item_font"							"novewide_medium20"
+		"delta_item_font_big"						"novewide_medium20"
 		"alpha"										"255"
 	}
 	"DamageAccountValue"
