@@ -4,7 +4,7 @@
 	{
 		"ControlName"								"Panel"
 		"fieldName"									"UberAnchor"
-		"xpos"										"c80"
+		"xpos"										"c90"
 		"ypos"										"c90"
 		"zpos"										"0"
 		"wide"										"2"

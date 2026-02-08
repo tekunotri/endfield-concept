@@ -49,7 +49,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%targetdata%"
 		"textAlignment"								"west"
-		"font"										"TargetID"
+		"font"										"novewide_normal10"
 		"disabledfgcolor2_override"					"White"
 	}
 	"SpectatorGUIHealth"
