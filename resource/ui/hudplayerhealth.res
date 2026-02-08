@@ -19,7 +19,7 @@
 	{
 		"ControlName"								"Panel"
 		"fieldName"									"HealthAnchor"
-		"xpos"										"c-80"
+		"xpos"										"c-90"
 		"ypos"										"c90"
 		
 		"xpos_minmode"								"cs-0.5-10"
@@ -30,6 +30,8 @@
 		"visible"									"0"
 		"enabled"									"1"
 	}
+	//max. 4 digits on minmode 0, like integer limit on minmode 1
+	//todo: dont animate on minmode
 	"PlayerStatusHealthValue"
 	{
 		"ControlName"								"CExLabel"
@@ -38,7 +40,8 @@
 		"textinsetx_minmode"						"65" //hackfix for alignment
 		"ypos"										"0"
 		"zpos"										"5"
-		"wide"										"80"
+		"wide"										"100"
+		"wide_minmode"								"80"
 		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
@@ -62,7 +65,8 @@
 		"textinsetx_minmode"						"65"
 		"ypos"										"-1"
 		"zpos"										"5"
-		"wide"										"80"
+		"wide"										"100"
+		"wide_minmode"								"80"
 		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"

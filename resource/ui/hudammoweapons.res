@@ -4,7 +4,7 @@
 	{
 		"ControlName"								"Panel"
 		"fieldName"									"AmmoAnchor"
-		"xpos"										"c80"
+		"xpos"										"c90"
 		"ypos"										"c90"
 		"xpos_minmode"								"rs1-50"
 		"ypos_minmode"								"rs1-25"

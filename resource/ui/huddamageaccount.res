@@ -8,15 +8,15 @@
 		"text_y"									"0"
 		"delta_item_end_y"							"0"
 		"delta_lifetime"							"1"
-		"delta_item_font"							"novewide_medium20"
-		"delta_item_font_big"						"novewide_medium20"
+		"delta_item_font"							"novewide_medium18Shadow"
+		"delta_item_font_big"						"novewide_medium18Shadow"
 		"alpha"										"255"
 	}
 	"DamageAccountValue"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"DamageAccountValue"
-		"xpos"										"c45"
+		"xpos"										"c55"
 		"ypos"										"c70"
 		"xpos_minmode"								"rs1-10"
 		"ypos_minmode"								"rs1-50"
