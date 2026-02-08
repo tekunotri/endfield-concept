@@ -38,7 +38,7 @@
 		"Tall"										"27"
 		"Visible"									"0"
 		"Enabled"									"1"
-		"Image"										"replay/thumbnails/panels/blank"
+		"Image"										"replay/thumbnails/blank"
 		"ScaleImage"								"1"
 	}
 	"ClassModelPanel"

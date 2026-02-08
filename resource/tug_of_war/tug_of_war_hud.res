@@ -171,7 +171,7 @@
 				"tall"								"0"
 				"visible"							"0"
 				"enabled"							"0"
-				"image"								"replay/thumbnails/panels/blank"
+				"image"								"replay/thumbnails/blank"
 				"scaleImage"						"1"
 				"alpha"								"0"
 			}
@@ -186,7 +186,7 @@
 				"tall"								"0"
 				"visible"							"0"
 				"enabled"							"0"
-				"image"								"replay/thumbnails/panels/blank"
+				"image"								"replay/thumbnails/blank"
 				"scaleImage"						"1"
 				"alpha"								"0"
 			}
